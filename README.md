@@ -4,11 +4,18 @@
 
 Software and hardware modules I developed for the **Girift UAV team**'s fully autonomous drone in the international **SUAS 2026** (Student Unmanned Aerial Systems) competition. Girift UAV is the drone team of Adana Alparslan Türkeş Science and Technology University.
 
-<p align="center">
-  <img src="object-detection/real_flight.jpg" width="32%" alt="Object detection on a test flight">
-  <img src="aerial-mapping/KESIN_HARITA_onizleme.png" width="32%" alt="Orthophoto map">
-  <img src="payload-delivery/overview.jpg" width="32%" alt="Payload delivery module">
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="object-detection/real_flight.jpg" height="230" alt="Object detection on a test flight"></td>
+    <td align="center"><img src="aerial-mapping/KESIN_HARITA_onizleme.png" height="230" alt="Orthophoto map"></td>
+    <td align="center"><img src="payload-delivery/overview.jpg" height="230" alt="Payload delivery module"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🎯 Object detection</b></td>
+    <td align="center"><b>🗺️ Aerial mapping</b></td>
+    <td align="center"><b>📦 Payload delivery</b></td>
+  </tr>
+</table>
 
 ## The mission
 
